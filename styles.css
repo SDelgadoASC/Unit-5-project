@@ -1,0 +1,28 @@
+.hungryperson{
+    width:600px;
+}
+.plainceviche{
+    width:200px;
+    display:none;
+}
+.sweetpotato{
+    width:600px;
+     display:none;
+}
+.corn{
+    width:600px;
+     display:none;
+}
+.seaweed{
+    width:600px;
+     display:none;
+}
+body{
+    text-align:center;
+}
+.actionbutton{
+}
+.satisfiedperson{
+    width:600px;
+    display:none;
+}
